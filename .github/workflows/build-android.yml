@@ -8,6 +8,7 @@ branches:
 
 jobs:
 build:
+name: Build Android APK
 runs-on: ubuntu-latest
 
 
